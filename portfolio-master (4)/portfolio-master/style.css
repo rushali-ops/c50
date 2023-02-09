@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+}
+
+.item{
+    background-color: plum;
+    text-align: center;
+}
+#monkey{
+    display: flex;
+    background-color: palegreen;
+
+    flex-wrap: wrap-reverse;
+}
+.fox{
+    background-color: deeppink;
+    text-align: center;
+}
